@@ -19,6 +19,12 @@ FINRA.org
 
 # AI-Case-Study
 
+<div align='center'>
+<img src='https://www.finra.org/themes/custom/finra_bootstrap_sass/images/FINRA_Logo_Web_Rev.png' alt='official FINRA logo'/>
+
+* A case study on the impact of AI technologies on the financial institution of FINRA.
+</div>
+
 ## Table of Contents
 
 * [Overview and Origin](#Overview-and-Origin)
