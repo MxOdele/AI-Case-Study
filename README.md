@@ -22,7 +22,7 @@ FINRA.org
 <div align='center'>
 <img src='https://www.finra.org/themes/custom/finra_bootstrap_sass/images/FINRA_Logo_Web_Rev.png' height='200' alt='official FINRA logo'/>
 
-*A case study on the impact of AI technologies on the Financial Industry Regulatory Authority (FINRA).*
+*A case study on the impact of AI technologies on the Financial Industry Regulatory Authority*
 </div>
 
 ## Table of Contents
@@ -38,13 +38,19 @@ FINRA.org
 
 * Name of organization
 
-The Financial Industry Regulatory Authority (FINRA)
+Financial Industry Regulatory Authority (FINRA)
 
 * When was FINRA founded?
 
 30 July, 2007 [^1]
 
-* Who are the founders of the company?
+* How was FIRNA founded?
+
+As per their 2007 News Release;
+
+>"FINRA was created through the consolidation of NASD and the member regulation, enforcement and arbitration operations of the New York Stock Exchange."[^1]
+
+While the consolodation was announced on 28 November, 2006, it was not approved by the **Securities and Exchange Commision** (SEC) until 26 July, 2007.
 
 * How did the idea for the company (or project) come about?
 
@@ -86,6 +92,6 @@ The Financial Industry Regulatory Authority (FINRA)
 
 * Why are these technologies appropriate for your solution?
 
-## Resources
 
-[^1]: FINRA News Release, https://web.archive.org/web/20091124011814/http://www.finra.org/Newsroom/NewsReleases/2007/P036329
+
+[^1]: <a href='https://web.archive.org/web/20091124011814/http://www.finra.org/Newsroom/NewsReleases/2007/P036329'> FINRA News Release</a>
