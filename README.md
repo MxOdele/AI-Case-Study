@@ -2,9 +2,13 @@
 Module 1 Challenge
 
 Things to research;
+
 FinTech
+
 FinTech AI
+
 FinTech LLM
+
 FINRA.org
 
 
@@ -61,7 +65,7 @@ FINRA.org
 
 * How is your company performing relative to competitors in the same field?
 
-## Recommendations {#recommendations-id}
+## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
