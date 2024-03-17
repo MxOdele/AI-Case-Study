@@ -17,13 +17,13 @@ FINRA.org
 
 ## Table of Contents
 
-* [Overview and Origin](#origins-id)
-* [Business Activities](#activities-id)
-* [Landscape](#Landscape-id)
-* [Results](#h-results)
-* [Recommendations](#recommendations-id)
+* [Overview and Origin](#Overview-and-Origin)
+* [Business Activities](#Business-Activities)
+* [Landscape](#Landscape)
+* [Results](#Results)
+* [Recommendations](#Recommendations)
 
-## Overview and Origin {#origins-id}
+## Overview and Origin
 
 * Name of company
 
@@ -35,7 +35,7 @@ FINRA.org
 
 * How is the company funded? How much funding have they received?
 
-## Business Activities {#activities-id}
+## Business Activities
 
 * What specific problem is the company or project trying to solve?
 
@@ -45,7 +45,7 @@ FINRA.org
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-## Landscape {#landscape-id}
+## Landscape
 
 * What field is the company in?
 
@@ -53,7 +53,7 @@ FINRA.org
 
 * What are the other major companies in this field?
 
-## Results {#results-id}
+## Results
 
 * What has been the business impact of this company so far?
 
