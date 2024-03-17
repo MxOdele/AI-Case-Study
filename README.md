@@ -32,17 +32,16 @@ FINRA.org
 * [Landscape](#Landscape)
 * [Results](#Results)
 * [Recommendations](#Recommendations)
-* [Resources](#Resources)
 
 ## Overview and Origin
 
 * Name of organization
 
-Financial Industry Regulatory Authority (FINRA)
+Financial Industry Regulatory Authority (<a href='https://www.finra.org/#/' alt='FINRA website'>FINRA</a>)
 
 * When was FINRA founded?
 
-30 July, 2007 [^1]
+30 July, 2007
 
 * How was FIRNA founded?
 
@@ -50,7 +49,7 @@ As per their 2007 News Release;
 
 >"FINRA was created through the consolidation of NASD and the member regulation, enforcement and arbitration operations of the New York Stock Exchange."[^1]
 
-While the consolodation was announced on 28 November, 2006, it was not approved by the **Securities and Exchange Commision** (SEC) until 26 July, 2007.
+While the consolodation was announced on 28 November, 2006, it was not approved by the *Securities and Exchange Commision* (<a href='https://www.sec.gov/' alt='SEC website'>SEC</a>) until 26 July, 2007.
 
 * How did the idea for the company (or project) come about?
 
