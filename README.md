@@ -20,9 +20,9 @@ FINRA.org
 # AI-Case-Study
 
 <div align='center'>
-<img src='https://www.finra.org/themes/custom/finra_bootstrap_sass/images/FINRA_Logo_Web_Rev.png' alt='official FINRA logo'/>
+<img src='https://www.finra.org/themes/custom/finra_bootstrap_sass/images/FINRA_Logo_Web_Rev.png' height='200' alt='official FINRA logo'/>
 
-* A case study on the impact of AI technologies on the financial institution of FINRA.
+*A case study on the impact of AI technologies on the Financial Industry Regulatory Authority (FINRA).*
 </div>
 
 ## Table of Contents
@@ -32,12 +32,17 @@ FINRA.org
 * [Landscape](#Landscape)
 * [Results](#Results)
 * [Recommendations](#Recommendations)
+* [Resources](#Resources)
 
 ## Overview and Origin
 
-* Name of company
+* Name of organization
 
-* When was the company incorporated?
+The Financial Industry Regulatory Authority (FINRA)
+
+* When was FINRA founded?
+
+30 July, 2007 [^1]
 
 * Who are the founders of the company?
 
@@ -80,3 +85,7 @@ FINRA.org
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## Resources
+
+[^1] : <a href='https://web.archive.org/web/20091124011814/http://www.finra.org/Newsroom/NewsReleases/2007/P036329'>FINRA News Release, 30 July, 2007</a>
