@@ -88,4 +88,4 @@ The Financial Industry Regulatory Authority (FINRA)
 
 ## Resources
 
-[^1] : <a href='https://web.archive.org/web/20091124011814/http://www.finra.org/Newsroom/NewsReleases/2007/P036329'>FINRA News Release, 30 July, 2007</a>
+[^1]: FINRA News Release, https://web.archive.org/web/20091124011814/http://www.finra.org/Newsroom/NewsReleases/2007/P036329
