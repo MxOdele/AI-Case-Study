@@ -20,7 +20,7 @@ FINRA.org
 # AI-Case-Study
 
 <div align='center'>
-<img src='https://www.finra.org/themes/custom/finra_bootstrap_sass/images/FINRA_Logo_Web_Rev.png' height='200' alt='official FINRA logo'/>
+<img src='https://www.finra.org/themes/custom/finra_bootstrap_sass/images/FINRA_Logo_Web_Rev.png' height='200' title='official FINRA logo' alt='official FINRA logo'/>
 
 *A case study on the impact of AI technologies on the Financial Industry Regulatory Authority*
 </div>
@@ -37,21 +37,21 @@ FINRA.org
 
 * Name of organization
 
-Financial Industry Regulatory Authority (<a href='https://www.finra.org/#/' alt='FINRA website'>FINRA</a>)
+Financial Industry Regulatory Authority (<a href='https://www.finra.org/#/' title='FINRA website'>FINRA</a>)
 
 * When was FINRA founded?
 
 30 July, 2007
 
-* How was FIRNA founded?
+* How was FINRA founded?
 
 As per their 2007 News Release;
 
 >"FINRA was created through the consolidation of NASD and the member regulation, enforcement and arbitration operations of the New York Stock Exchange."[^1]
 
-While the consolodation was announced on 28 November, 2006, it was not approved by the *Securities and Exchange Commision* (<a href='https://www.sec.gov/' alt='SEC website'>SEC</a>) until 26 July, 2007.
+While the consolodation was announced on 28 November, 2006, it was not approved by the *Securities and Exchange Commision* (<a href='https://www.sec.gov/' title='SEC website'>SEC</a>) until 26 July, 2007.
 
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about?[^2]
 
 * How is the company funded? How much funding have they received?
 
@@ -94,3 +94,5 @@ While the consolodation was announced on 28 November, 2006, it was not approved 
 
 
 [^1]: <a href='https://web.archive.org/web/20091124011814/http://www.finra.org/Newsroom/NewsReleases/2007/P036329'> FINRA News Release</a>
+
+[^2]: <a href=''>PLACEHOLDER</a>
