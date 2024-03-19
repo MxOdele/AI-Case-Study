@@ -1,23 +1,4 @@
 # AI-Case-Study
-Module 1 Challenge
-
-Things to research;
-
-FinTech
-
-FinTech AI
-
-FinTech LLM
-
-FINRA.org
-
-
-
-
-
-
-
-# AI-Case-Study
 
 <div align='center'>
 <img src='https://www.finra.org/themes/custom/finra_bootstrap_sass/images/FINRA_Logo_Web_Rev.png' height='200' title='official FINRA logo' alt='official FINRA logo'/>
