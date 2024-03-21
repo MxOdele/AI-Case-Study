@@ -32,13 +32,20 @@ As per their 2007 News Release;
 
 While the consolodation was announced on 28 November, 2006, it was not approved by the *Securities and Exchange Commision* (<a href='https://www.sec.gov/' title='SEC website'>SEC</a>) until 26 July, 2007.
 
-* How did the idea for the company (or project) come about?[^2]
+* How did the idea for the company (or project) come about?
+
+Finra was formed as the result of the regulatory boards for the National Association of Securities Dealers (NSAD) and the New York Stock Exchange (NYSE) consolodating their member firm regulations operations into a single organizaiton, FINRA. Per SEC approval, the merge 
+
+> "...included a FINRA Board governance structure that balanced public and industry representation."[^2]
 
 * How is the company funded? How much funding have they received?
+
+With a reported 2023 budget of ==$1.158 billion==, FINRA mostly relies on industry fees assessed to member firms and brokers for its operating revenue. Additional funds are received through member and user fees (such as qualification and registration fees) and interest and dividends earned through company assets.[^3]
 
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
+
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -76,4 +83,8 @@ While the consolodation was announced on 28 November, 2006, it was not approved 
 
 [^1]: <a href='https://web.archive.org/web/20091124011814/http://www.finra.org/Newsroom/NewsReleases/2007/P036329'> FINRA News Release</a>
 
-[^2]: <a href=''>PLACEHOLDER</a>
+[^2]: <a href='chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.sec.gov/files/rules/sro/finra/2009/34-59962.pdf'>SEC Release No. 34-59962; File No. SR-FINRA-2009-020</a>
+
+[^3]: <a href='chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.finra.org/sites/default/files/2023-06/FINRA-2023-Annual-Budget-Summary.pdf'>FINRA 2023 Budget Summary</a>
+
+[^4] <a href=''>PLACEHOLDER</a>
