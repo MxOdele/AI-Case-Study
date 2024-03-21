@@ -14,6 +14,8 @@
 * [Results](#Results)
 * [Recommendations](#Recommendations)
 
+---
+
 ## Overview and Origin
 
 * Name of organization
@@ -40,18 +42,45 @@ Finra was formed as the result of the regulatory boards for the National Associa
 
 * How is the company funded? How much funding have they received?
 
-With a reported 2023 budget of ==$1.158 billion==, FINRA mostly relies on industry fees assessed to member firms and brokers for its operating revenue. Additional funds are received through member and user fees (such as qualification and registration fees) and interest and dividends earned through company assets.[^3]
+With a reported 2023 budget of **$1.158 billion**, FINRA mostly relies on industry fees assessed to member firms and brokers for its operating revenue. Additional funds are received through member and user fees (such as qualification and registration fees) and interest and dividends earned through company assets.[^3]
+
+---
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* What specific purpose is the company fulfilling?
 
+FINRA oversees broker-dealers and brokerage firms to protect investors, and to ensure the U.S. financial market's fair and honest operation. To help participants in the market trade with confidence, the regulations FINRA puts into place require standards such as;
+
++ Ensuring the basic protections investors deserve
++ Requiring those that sell securities products to be tested, qualified, and licensed
++ Requiring securities product advertisements to be honest and nont misleading
++ Selling securities products only suitable to an investor's needs
++ Providing a complete disclosure for any investment product to the investor prior to purchase
+
+This oversight is authorized by Congress.[^4]
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
+
+While their goal is to protect investors, **FINRA oversees nearly 625,000 brokers** in the U.S.[^4] Under SEC supervision, FINRA:
+
++ writes and enforces rules for the ethical practices of all registers brokers and brokerage firms
++ examines member firms for compliance
++ pushes for market transparancy
++ provides education for investors
+
+According to their reporting, in 2023 FINRA had the following impacts on the U.S. financial market:
+
+> + Brought 610 disciplinary actions against registered brokers and firms for unethical behavior.
+> + Levied $88.4 million in fines.
+> + Ordered $7.5 million in restitution to harmed investors.
+> + Referred more than 620 fraud and insider trading cases to the SEC and other agencies for litigation and/or prosecution.[^5]
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+---
 
 ## Landscape
 
@@ -61,6 +90,8 @@ With a reported 2023 budget of ==$1.158 billion==, FINRA mostly relies on indust
 
 * What are the other major companies in this field?
 
+---
+
 ## Results
 
 * What has been the business impact of this company so far?
@@ -68,6 +99,8 @@ With a reported 2023 budget of ==$1.158 billion==, FINRA mostly relies on indust
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
 * How is your company performing relative to competitors in the same field?
+
+---
 
 ## Recommendations
 
@@ -87,4 +120,6 @@ With a reported 2023 budget of ==$1.158 billion==, FINRA mostly relies on indust
 
 [^3]: <a href='chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.finra.org/sites/default/files/2023-06/FINRA-2023-Annual-Budget-Summary.pdf'>FINRA 2023 Budget Summary</a>
 
-[^4] <a href=''>PLACEHOLDER</a>
+[^4]: <a href='https://www.finra.org/about'>About FINRA</a>
+
+[^5]: <a href=''>TEXT</a>
