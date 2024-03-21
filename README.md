@@ -18,15 +18,15 @@
 
 ## Overview and Origin
 
-### Name of organization
+### *Name of organization*
 
 Financial Industry Regulatory Authority (<a href='https://www.finra.org/#/' title='FINRA website'>FINRA</a>)
 
-### When was FINRA founded?
+### *When was FINRA founded?*
 
 30 July, 2007
 
-### How was FINRA founded?
+### *How was FINRA founded?*
 
 As per their 2007 News Release;
 
@@ -34,13 +34,13 @@ As per their 2007 News Release;
 
 While the consolodation was announced on 28 November, 2006, it was not approved by the *Securities and Exchange Commision* (<a href='https://www.sec.gov/' title='SEC website'>SEC</a>) until 26 July, 2007.
 
-### How did the idea for the company (or project) come about?
+### *How did the idea for the company (or project) come about?*
 
 Finra was formed as the result of the regulatory boards for the National Association of Securities Dealers (NSAD) and the New York Stock Exchange (NYSE) consolodating their member firm regulations operations into a single organizaiton, FINRA. Per SEC approval, the merge 
 
 > "...included a FINRA Board governance structure that balanced public and industry representation."[^2]
 
-### How is the company funded? How much funding have they received?
+### *How is the company funded? How much funding have they received?*
 
 With a reported 2023 budget of **$1.158 billion**, FINRA mostly relies on industry fees assessed to member firms and brokers for its operating revenue. Additional funds are received through member and user fees (such as qualification and registration fees) and interest and dividends earned through company assets.[^3]
 
@@ -48,7 +48,7 @@ With a reported 2023 budget of **$1.158 billion**, FINRA mostly relies on indust
 
 ## Business Activities
 
-### What specific purpose is the company fulfilling?
+### *What specific purpose is the company fulfilling?*
 
 FINRA oversees broker-dealers and brokerage firms to protect investors, and to ensure the U.S. financial market's fair and honest operation. To help participants in the market trade with confidence, the regulations FINRA puts into place require standards such as;
 
@@ -60,7 +60,7 @@ FINRA oversees broker-dealers and brokerage firms to protect investors, and to e
 
 This oversight is authorized by Congress.[^4]
 
-### Who is the company's intended customer? Is there any information about the market size of this set of customers?
+### *Who is the company's intended customer? Is there any information about the market size of this set of customers?*
 
 While their goal is to protect investors, **FINRA oversees nearly 625,000 brokers** in the U.S.[^4] Under SEC supervision, FINRA:
 
@@ -76,7 +76,7 @@ According to their reporting, in 2023 FINRA had the following impacts on the U.S
 > + Ordered $7.5 million in restitution to harmed investors.
 > + Referred more than 620 fraud and insider trading cases to the SEC and other agencies for litigation and/or prosecution."[^5]
 
-### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+### *Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*
 
 
 
@@ -84,33 +84,33 @@ According to their reporting, in 2023 FINRA had the following impacts on the U.S
 
 ## Landscape
 
-### What field is the company in?
+### *What field is the company in?*
 
-### What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+### *What have been the major trends and innovations of this field over the last 5&ndash;10 years?*
 
-### What are the other major companies in this field?
+### *What are the other major companies in this field?*
 
 ---
 
 ## Results
 
-### What has been the business impact of this company so far?
+### *What has been the business impact of this company so far?*
 
-### What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+### *What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?*
 
-### How is your company performing relative to competitors in the same field?
+### *How is your company performing relative to competitors in the same field?*
 
 ---
 
 ## Recommendations
 
-### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### *If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)*
 
-### Why do you think that offering this product or service would benefit the company?
+### *Why do you think that offering this product or service would benefit the company?*
 
-### What technologies would this additional product or service utilize?
+### *What technologies would this additional product or service utilize?*
 
-### Why are these technologies appropriate for your solution?
+### *Why are these technologies appropriate for your solution?*
 
 
 
