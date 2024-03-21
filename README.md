@@ -119,11 +119,58 @@ According to their reporting, in 2023, alone, FINRA had the following impacts on
 
 ### *What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?*
 
-???
+FINRA focuses their statistics on areas under their oversight. Metrics such as:
+
++ Regulatory Actions
+    + Investory complaints recieved
+        + *272.42% **increase** from 2017 to 2022*
+    + New disciplinary actions taken
+        + *45.43% **decrease** from 2017 to 2022*
+        + Note: FINRA changed the methodology for compiling data for this metric in 2017
+    + Fines levied
+        + *16.02% **decrease** from 2017 to 2022*
+    + Restitutions paid
+        + *60.78% **decrease** from 2017 to 2022*
+    + Firms suspended and expelled
+        + Tracked spearately
+            + Suspended: *89.66% **decrease** from 2017 to 2022*
+            + Expelled: *65.00% **decrease** from 2017 to 2022*
+    + Individuals suspended and barred
+        + Tracked separately
+            + Suspended: *55.25% **decrease** from 2017 to 2022*
+            + Barred: *53.86% **decrease** from 2017 to 2022*
+    + Reviewed advertisements and sales
+        + Tracked jointly
+            + *17.33% **decrease** from 2017 to 2022*
++ Key Industry Statistics
+    + Registered representatives at End of Year
+        + Total registered representatives
+            + *5.4% **decrease** from 2006 to 2022*
+        + Representatives entering
+            + *25.56% **decrease** from 2006 to 2022*
+        + Representatives leaving
+            + *36.32% **crease** from 2006 to 2022*
+        + % totals for both
+    + Firms at End of Year
+        + Total firms
+            + *32.79% **decrease** from 2006 to 2022*
+        + Firms added
+            + *53.04% **decrease** from 2006 to 2022*
+        + Firms leaving
+            + *59.63% **decrease** from 2006 to 2022*
+        + % totals for both
+    + Member firm branches at End of Year
+        + Total member branches
+            + *11.11% **decrease** from 2006 to 2022*
+        + Branches opened
+            + *80.18% **decrease** from 2006 to 2022*
+        + Branches closed
+            + *38.22% **decrease** from 2006 to 2022*
+        + % totals for both[^9]
 
 ### *How is your company performing relative to competitors in the same field?*
 
-???
+As a regulatory body, FINRA has no direct coporate competition to compare to.
 
 ---
 
@@ -168,3 +215,5 @@ The goal would be to develop a tool that would be powerful enough to monitor hun
 [^7]: <a href='https://developer.finra.org/docs'>FINRA API Development Center</a>
 
 [^8]: <a href='https://www.intellectsoft.net/blog/ai-in-fintech/'>AI in FinTech: Role, Opportunities and Use Cases</a>
+
+[^9]: <a href='https://www.finra.org/media-center/statistics#key'>Media Center: Statistics</a>
