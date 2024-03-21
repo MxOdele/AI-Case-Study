@@ -116,10 +116,11 @@ According to their reporting, in 2023 FINRA had the following impacts on the U.S
 
 [^1]: <a href='https://web.archive.org/web/20091124011814/http://www.finra.org/Newsroom/NewsReleases/2007/P036329'> FINRA News Release</a>
 
-[^2]: <a href='chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.sec.gov/files/rules/sro/finra/2009/34-59962.pdf'>SEC Release No. 34-59962; File No. SR-FINRA-2009-020</a>
+[^2]: <a href='https://github.com/MxOdele/AI-Case-Study/blob/c1ef4899a2d210f2a43285361c40d815b27da9f0/References/SEC-Release-No-34-59962.pdf'>SEC Release No. 34-59962; File No. SR-FINRA-2009-020</a>
 
-[^3]: <a href='chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.finra.org/sites/default/files/2023-06/FINRA-2023-Annual-Budget-Summary.pdf'>FINRA 2023 Budget Summary</a>
+[^3]: <a href='https://github.com/MxOdele/AI-Case-Study/blob/c1ef4899a2d210f2a43285361c40d815b27da9f0/References/FINRA-2023-Annual-Budget-Summary.pdf'>FINRA 2023 Budget Summary</a>
 
 [^4]: <a href='https://www.finra.org/about'>About FINRA</a>
 
-[^5]: <a href=''>TEXT</a>
+[^5]: <a href='https://www.finra.org/about/what-we-do'>About FINRA: What We Do</a>
+
